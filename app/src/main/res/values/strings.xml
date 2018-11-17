@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EPFIEC</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Account_Balance">AccountBalance</string>
+    <string name="button_DOB">Select Date of Birth</string>
+    <string name="Age">Age</string>
+    <string name="textViewAge">-</string>
+    <string name="EligibleAmount">EligibleAmount</string>
+    <string name="textViewEligibleAmount">-</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Reset">Reset</string>
+</resources>
